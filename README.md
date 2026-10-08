@@ -1,4 +1,4 @@
-<h1> Smyth-o-Tronic </h1>
+<h1> Bind-o-Tronic </h1>
 
 <p align="center">
   <img src="./images/app_preview.webp" width="100%" alt="4K Book Mockup Preview">
