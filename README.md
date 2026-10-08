@@ -26,7 +26,7 @@
 
 1) Clone or download the repository.
 
-2) Open index.html directly in any modern web browser (no complex build steps or Node.js required).
+2) Open Bind-o-Tronic_1.1.html (current version) directly in any modern web browser (no complex build steps or Node.js required).
 
 3) Upload your front cover image, adjust your book dimensions and page count, customize lighting, and export your 4K render!
 
