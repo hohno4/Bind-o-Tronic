@@ -1,3 +1,9 @@
+<h1> Smyth-o-Tronic </h1>
+
+<p align="center">
+  <img src="./images/app_preview.webp" width="100%" alt="4K Book Mockup Preview">
+</p>
+
 A professional, high-performance web-based studio built for designers, publishers, and creators to generate pristine 4K isometric book mockups instantly from cover artwork and custom physical dimensions.
 
 Features: 
