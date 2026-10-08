@@ -1,7 +1,7 @@
 <h1> Bind-o-Tronic </h1>
 
 <p align="center">
-  <img src="./images/app_preview.webp" width="100%" alt="4K Book Mockup Preview">
+  <img src="./Bind-o-Tronic_Capture.webp" width="100%" alt="4K Book Mockup Preview">
 </p>
 
 <strong> Bind-o-Tronic  </strong> is a professional, high-performance web-based studio built for designers, publishers, and creators to generate pristine 4K isometric book mockups instantly from cover artwork and custom physical dimensions.
