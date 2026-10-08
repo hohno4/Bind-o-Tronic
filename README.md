@@ -4,29 +4,37 @@
   <img src="./images/app_preview.webp" width="100%" alt="4K Book Mockup Preview">
 </p>
 
-A professional, high-performance web-based studio built for designers, publishers, and creators to generate pristine 4K isometric book mockups instantly from cover artwork and custom physical dimensions.
+<strong> Smyth-o-Tronic </strong> is a professional, high-performance web-based studio built for designers, publishers, and creators to generate pristine 4K isometric book mockups instantly from cover artwork and custom physical dimensions.
+<hr>
+<h3> Features: </h3>
 
-Features: 
+**True Isometric Projection:** Engineered with precise 45-degree isometric geometry and corner alignments for a professional, crisp angle that matches high-end design presentations.
 
-True Isometric Projection: Engineered with precise 45-degree isometric geometry and corner alignments for a professional, crisp angle that matches high-end design presentations.
+**True-to-Life Page Blocks:** Fully dynamic page thickness tied directly to a real-time Page Count slider, accurately scaling the right-side and bottom page block depths.
 
-True-to-Life Page Blocks: Fully dynamic page thickness tied directly to a real-time Page Count slider, accurately scaling the right-side and bottom page block depths.
+**Custom Tileable Edge Textures:** Embedded with custom high-detail paper-cut textures for both the right side (horizontal stacked pages) and bottom edge (vertical leaf lines) with seamless tiling.
 
-Custom Tileable Edge Textures: Embedded with custom high-detail paper-cut textures for both the right side (horizontal stacked pages) and bottom edge (vertical leaf lines) with seamless tiling.
+**Advanced Lighting & Shadows:** Fine-tune ambient light intensity, directional highlights, and shadow opacity with intuitive zero-default controls.
 
-Advanced Lighting & Shadows: Fine-tune ambient light intensity, directional highlights, and shadow opacity with intuitive zero-default controls.
+**Glossy Cover Finish:** Dynamic overlay controls for adjustable cover glossiness and specular highlights.
 
-Glossy Cover Finish: Dynamic overlay controls for adjustable cover glossiness and specular highlights.
+**4K Export with Transparency:** Export your finished mockups at a fixed 4K vertical resolution ($3840\text{px}$) with transparent backgrounds, ready for professional compositing in Photoshop, illustrator or InDesign (or your graphics suite of choice).
 
-4K Export with Transparency: Export your finished mockups at a fixed 4K vertical resolution ($3840\text{px}$) with transparent backgrounds, ready for professional compositing in Photoshop, illustrator or InDesign (or your graphics suite of choice).
+**Sleek UI Design:** Polished dark-mode interface accented with a sophisticated light gold-orange theme for a modern creative studio feel.
+<hr>
+<h3> Quick Start: </h3>
 
-Sleek UI Design: Polished dark-mode interface accented with a sophisticated light gold-orange theme for a modern creative studio feel.
+1) Clone or download the repository.
 
-Quick Start:
-Clone or download the repository.Open index.html directly in any modern web browser (no complex build steps or Node.js required) .Upload your front cover image, adjust your book dimensions and page count, customize lighting, and export your 4K render!
+2) Open index.html directly in any modern web browser (no complex build steps or Node.js required).
 
-Built WithHTML5 Canvas API for high-precision, sub-pixel vector and image rendering.
+3) Upload your front cover image, adjust your book dimensions and page count, customize lighting, and export your 4K render!
+
+<hr>
+
+_Built WithHTML5 Canvas API for high-precision, sub-pixel vector and image rendering.
 Vanilla JavaScript (ES6+) for reactive real-time calculations and 3D geometric transformations.
-CSS3 with a clean, responsive studio control panel layout.
+CSS3 with a clean, responsive studio control panel layout._
 
-License: Distributed under the MIT License. See LICENSE for more information.
+
+License: Distributed under the [MIT License](./LICENSE).
